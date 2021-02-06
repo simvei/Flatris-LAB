@@ -1,4 +1,4 @@
-## Chage
+## Change
 
 [![Flatris](flatris.png)](https://flatris.space/)
 
